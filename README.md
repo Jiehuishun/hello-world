@@ -1,2 +1,2 @@
 # hello-world
-just created to follow the guidence.
+created to follow the guide.
